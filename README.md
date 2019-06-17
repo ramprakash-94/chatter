@@ -1,14 +1,11 @@
 # Chat Server for team-208-SP19
 ## Team Members
-- Himanshu Budhiah (budhiahimanshu96)
-- Ram Prakash Arivu Chelvan (ramprakash)
-- Shashwat Sanghavi (sanghavis)
-- John Goodacre (jgoodacre)
+- Ram Prakash Arivu Chelvan 
+- Himanshu Budhiah (github.com/budhiahimanshu96)
+- Shashwat Sanghavi (github.com/srsanghavi)
+- John Goodacre 
 
 ## Links
-
-- Server: http://ec2-18-234-159-228.compute-1.amazonaws.com:4545/
-- React Client: http://ec2-18-234-159-228.compute-1.amazonaws.com:3000/login
 
 - System Demo: https://youtu.be/0ip6OYNTJ4Y
 - System Setup: https://youtu.be/MmCKiArkris

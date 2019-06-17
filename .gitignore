@@ -32,3 +32,6 @@ hs_err_pid*
 *.plantuml
 Development/ChatServer/ChatServer.iml
 Development/ChatServer/ChatServer.iml
+
+# Grades
+Grades/
